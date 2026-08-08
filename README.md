@@ -10,11 +10,14 @@
 
 <img src="man_analysis.png" align="right" width="40%">
 
+Hi!
+
 <h3> Currently Working 🔭 </h3>
 <ul>
+  <li> 
   <!--<li> Doing Google's <a href="https://www.coursera.org/professional-certificates/google-data-analytics">Data Analytics Professional</a> Certification on Coursera.</li>-->
-  <li> Data Scientist Scholar at <a href="https://sparta.dap.edu.ph">Project SPARTA PH</a> </li>
-  <li> Accomplishing Microsoft Azure Certifications, currently studying for <a href="https://learn.microsoft.com/en-us/certifications/exams/ai-900/">AI-900 Microsoft Azure AI Fundamentals</a>. </li>
+  <!--<li> Data Scientist Scholar at <a href="https://sparta.dap.edu.ph">Project SPARTA PH</a> </li>
+  <li> Accomplishing Microsoft Azure Certifications, currently studying for <a href="https://learn.microsoft.com/en-us/certifications/exams/ai-900/">AI-900 Microsoft Azure AI Fundamentals</a>. </li>-->
   <!--<li> Accomplishing <a href="https://www.deeplearning.ai">DeepLearning.AI</a> certifications for AI & ML Specializations. </li>-->
   <!--<li> Adding more projects and improving my <a href="https://github.com/vergaraac/Data-Portfolio">data portfolio</a>. </li>-->
 </ul>
