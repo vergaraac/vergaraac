@@ -10,7 +10,9 @@
 
 <img src="man_analysis.png" align="right" width="40%">
 
-Hi!
+Hi! I'm Aaron Charles Vergara, currently a Software Engineering Analyst in Accenture. My current skillset involves enterprise application development via Oracle APEX Stack, using SQL, PL/SQL, HTML, CSS, and JavaScript. My work involves developing business innovation solutions that also allows me to be engaged in other technologies and tools, such as Azure, AWS, Anthropic, etc.
+
+At the moment, I'm also engaged with studying Japanese and have taken the JLPT N3 exam. 今、日本語を勉強しています！最近N3を受験しました。将来は、日本語で会話したり、趣味を楽しんだりできるようになりたいです。よろしくお願いします！
 
 <h3> Currently Working 🔭 </h3>
 <ul>
