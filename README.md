@@ -10,14 +10,21 @@
 
 <img src="man_analysis.png" align="right" width="40%">
 
-Hi! I'm <b>Aaron Charles Vergara</b>, currently a <b>Software Engineering Analyst</b> in <b>Accenture</b>. My current main skillset involves <b>enterprise application development</b> via <b>Oracle APEX</b> Stack, using <b>SQL, PL/SQL, HTML, CSS, and JavaScript</b>. My work involves developing <b>business innovation solutions</b> that also allows me to be engaged in custom development, cloud, and AI technologies and tools, such as <b>Azure, AWS, Anthropic</b>, etc.
+Hi! I'm <b>Aaron Charles Vergara</b>, currently a <b>Software Engineering Analyst</b> in <b>Accenture</b>. My current main skillset involves <b>enterprise application development</b> via <b>Oracle APEX</b> Stack, using <b>SQL, PL/SQL, HTML, CSS, and JavaScript</b>. 
 
-At the moment, I'm also engaged with studying Japanese and have taken the JLPT N3 exam. 
-<b>今、日本語を勉強しています！最近N3を受験しました。将来は、日本語で会話したり、趣味を楽しんだりできるようになりたいです。よろしくお願いします！</b>
+My work involves developing <b>business innovation solutions</b> that also allows me to be engaged in custom development, cloud, and AI technologies and tools, such as <b>Azure, AWS, Anthropic</b>, etc.
+<hr>
+
+ 
+<b>今、日本語を勉強しています！最近N3を受験しました。将来は、日本語で会話したり、趣味を楽しんだりできるようになりたいです。よろしくお願いします！</b> 
+
+(I’m currently studying Japanese! I recently took the N3 exam. In the future, I’d like to be able to have conversations in Japanese and enjoy my hobbies using Japanese. Nice to meet you!)
+<hr>
 
 <h3> Currently Working 🔭 </h3>
 <ul>
-  <li> 
+  <li> Following a personal project roadmap towards developing a customizable/flexible enterprise level ticket management system concept powered with AI.</li>
+  <li> Continuous self-study of Japanese, with a future goal of passing JLPT N2-N1 and attaining higher proficiency in conversation.
   <!--<li> Doing Google's <a href="https://www.coursera.org/professional-certificates/google-data-analytics">Data Analytics Professional</a> Certification on Coursera.</li>-->
   <!--<li> Data Scientist Scholar at <a href="https://sparta.dap.edu.ph">Project SPARTA PH</a> </li>
   <li> Accomplishing Microsoft Azure Certifications, currently studying for <a href="https://learn.microsoft.com/en-us/certifications/exams/ai-900/">AI-900 Microsoft Azure AI Fundamentals</a>. </li>-->
