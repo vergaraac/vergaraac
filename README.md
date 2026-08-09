@@ -26,6 +26,8 @@ My work involves developing <b>business innovation solutions</b> that also allow
   <li> Following a personal project roadmap towards developing a customizable/flexible enterprise level ticket management system concept powered with AI.</li>
   <li> Continuous self-study of Japanese, with a future goal of passing JLPT N2-N1 and attaining higher proficiency in conversation.</li>
 </ul>
+<hr>
+
 <h3>Technologies &amp; Tools Experience 🛠️</h3>
 
   <h4><b>Core Professional Technologies:</b></h4>
