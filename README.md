@@ -10,22 +10,23 @@
 
 <img src="man_analysis.png" align="right" width="40%">
 
-Hi! I'm <b>Aaron Charles Vergara</b>, currently a <b>Software Engineering Analyst</b> in <b>Accenture</b>. My current main skillset involves <b>enterprise application development</b> via <b>Oracle APEX</b> Stack, using <b>SQL, PL/SQL, HTML, CSS, and JavaScript</b>. 
+Hi! I'm <b>Aaron Charles Vergara</b>, currently a <b>Software Engineering Analyst</b> at <b>Accenture</b>. My primary professional experience is in <b>enterprise application development</b> using <b>Oracle APEX</b>, with a focus on <b>SQL, PL/SQL, HTML, CSS, JavaScript, and Oracle Database</b>.
 
-My work involves developing <b>business innovation solutions</b> that also allows me to be engaged in custom development, cloud, and AI technologies and tools, such as <b>Azure, AWS, Anthropic</b>, etc.
+Through my work on <b>business innovation solutions</b>, I've also gained development exposure to <b>cloud, automation, and AI technologies</b> across platforms such as <b>Oracle Cloud Infrastructure (OCI), AWS, and Azure</b>. I'm currently expanding my skills in <b>Python, Java, AI development, and modern software development tools</b>.
 <hr>
 
  
-<b>今、日本語を勉強しています！最近N3を受験しました。将来は、日本語で会話したり、趣味を楽しんだりできるようになりたいです。よろしくお願いします！</b> 
+<b>今、日本語を勉強しています！最近、N3を受験しました。将来は、日本語で会話したり、日本語を使って趣味を楽しんだりできるようになりたいです。よろしくお願いします！</b>
 
 (I’m currently studying Japanese! I recently took the N3 exam. In the future, I’d like to be able to have conversations in Japanese and enjoy my hobbies using Japanese. Nice to meet you!)
 <hr>
 
-<h3> Currently Working 🔭 </h3>
+<h3>Currently Working 🔭</h3>
 <ul>
-  <li> Following a personal project roadmap towards developing a customizable/flexible enterprise level ticket management system concept powered with AI.</li>
-  <li> Continuous self-study of Japanese, with a future goal of passing JLPT N2-N1 and attaining higher proficiency in conversation.</li>
+  <li>Following a personal project roadmap to develop a customizable, AI-powered enterprise ticket management system.</li>
+  <li>Continuously studying Japanese, with the long-term goal of passing JLPT N2–N1 and developing higher conversational proficiency.</li>
 </ul>
+
 <hr>
 
 <h3>Technologies &amp; Tools Experience 🛠️</h3>
@@ -40,13 +41,13 @@ My work involves developing <b>business innovation solutions</b> that also allow
     <li>Bash / Shell Scripting</li>
   </ul>
 
-  <h4><b>Professional Development Exposure:</b></h4>
-  <ul>
-    <li><b>Cloud:</b> Oracle Cloud Infrastructure (OCI), AWS, Azure</li>
-    <li><b>Cloud Tools:</b> AWS Lambda, AWS API Gateway, Azure Functions</li>
-    <li><b>AI: </b>AWS Bedrock, Microsoft 365 Copilot, Agentic AI Development</li>
-    <li><b>Automation: </b>Microsoft Power Automate</li>
-  </ul>
+<h4><b>Professional Development Exposure:</b></h4>
+<ul>
+  <li><b>Cloud Platforms:</b> Oracle Cloud Infrastructure (OCI), AWS, Azure</li>
+  <li><b>Cloud Services:</b> AWS Lambda, AWS API Gateway, Azure Functions</li>
+  <li><b>AI:</b> AWS Bedrock, Microsoft 365 Copilot, Agentic AI Development</li>
+  <li><b>Automation:</b> Microsoft Power Automate</li>
+</ul>
 
   <h4><b>Development Practices:</b></h4>
   <ul>
@@ -58,7 +59,7 @@ My work involves developing <b>business innovation solutions</b> that also allow
 
   <h4><b>Currently Learning:</b></h4>
   <ul>
-    <li><b>Custom Development:</b> Python, Java</li>
+    <li><b>Programming:</b> Python, Java</li>
     <li><b>AI:</b> Claude API</li>
     <li><b>IDEs:</b> IntelliJ IDEA</li>
     <li><b>Development Tools:</b> Git / GitHub, Visual Studio Code — currently refreshing</li>
