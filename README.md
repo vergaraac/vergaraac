@@ -26,59 +26,49 @@ My work involves developing <b>business innovation solutions</b> that also allow
   <li> Following a personal project roadmap towards developing a customizable/flexible enterprise level ticket management system concept powered with AI.</li>
   <li> Continuous self-study of Japanese, with a future goal of passing JLPT N2-N1 and attaining higher proficiency in conversation.</li>
 </ul>
-<h3>Technologies &amp; Tools Experience</h3>
+<h3>Technologies &amp; Tools Experience 🛠️</h3>
 
-<h4><b>Full-Stack Development:</b></h4>
-<ul>
-  <li><b>Oracle APEX</b></li>
+  <h4><b>Core Professional Technologies:</b></h4>
   <ul>
-    <li>SQL / PL/SQL</li>
-    <li>HTML / CSS</li>
-    <li>JavaScript / AJAX</li>
+    <li><b>Platform:</b> Oracle APEX</li>
+    <li><b>Query Languages:</b> SQL / PL/SQL </li>
+    <li><b>Frontend:</b> HTML, CSS, JavaScript / AJAX</li>
     <li>REST APIs</li>
-    <li>Shell Scripting</li>
-  </ul>
-
-  <li><b>Programming & Markup Languages:</b></li>
-  <ul>
-    <li>Python</li>
-    <li>Java</li>
-    <li>JavaScript</li>
-    <li>C++</li>
-    <li>PHP</li>
-    <li>Markdown</li>
-  </ul>
-
-  <li><b>Cloud &amp; AI:</b></li>
-  <ul>
-    <li>Oracle Cloud Infrastructure (OCI)</li>
-    <li>AWS Lambda</li>
-    <li>AWS API Gateway</li>
-    <li>AWS Bedrock</li>
-    <li>Azure Functions</li>
-    <li>Agentic AI Development</li>
-    <li>Claude API</li>
-    <li>Python (Keras, Matplotlib, NumPy, OpenCV, Pandas, scikit-learn, Tensorflow)
-  </ul>
-
-  <li><b>Database:</b></li>
-  <ul>
-    <li>PostgreSQL</li>
-    <li>MySQL</li>
     <li>Oracle Database / SQL Developer</li>
-    <li>Navicat</li>
+    <li>Bash / Shell Scripting</li>
   </ul>
 
-  <li><b>Development &amp; Collaboration:</b></li>
+  <h4><b>Professional Development Exposure:</b></h4>
   <ul>
-    <li>Git / GitHub</li>
-    <li>Jira</li>
-    <li>Power Automate</li>
-    <li>Visual Studio Code</li>
-    <li>Visual Studio</li>
-    <li>Jupyter Notebook</li>
+    <li><b>Cloud:</b> Oracle Cloud Infrastructure (OCI), AWS, Azure</li>
+    <li><b>Cloud Tools:</b> AWS Lambda, AWS API Gateway, Azure Functions</li>
+    <li><b>AI: </b>AWS Bedrock, Microsoft 365 Copilot, Agentic AI Development</li>
+    <li><b>Automation: </b>Microsoft Power Automate</li>
   </ul>
-</ul>
+
+  <h4><b>Development Practices:</b></h4>
+  <ul>
+    <li>Agile / Scrum</li>
+    <li>RESTful API Development</li>
+    <li>Database Query Optimization</li>
+    <li>Software Development Lifecycle (SDLC)</li>
+  </ul>
+
+  <h4><b>Currently Learning:</b></h4>
+  <ul>
+    <li><b>Custom Development:</b> Python, Java</li>
+    <li><b>AI:</b> Claude API</li>
+    <li><b>IDEs:</b> IntelliJ IDEA</li>
+    <li><b>Development Tools:</b> Git / GitHub, Visual Studio Code — currently refreshing</li>
+  </ul>
+
+  <h4><b>Previous Academic / Internship Experience:</b></h4>
+  <ul>
+    <li><b>Programming: </b>C++</li>
+    <li><b>Database:</b> PostgreSQL, MySQL, Navicat Premium</li>
+    <li><b>Machine Learning &amp; Data Science:</b> TensorFlow / Keras, NumPy, Pandas, scikit-learn, Matplotlib, OpenCV</li>
+    <li><b>IDEs: </b>Visual Studio, Jupyter Notebook</li>
+  </ul>
 
 <div align="center">
 <hr>
